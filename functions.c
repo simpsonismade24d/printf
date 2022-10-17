@@ -47,7 +47,7 @@ str = "      ";
 }
 
 while (str[length] != '\0')
-ength++;
+length++;
 
 if (precision >= 0 && precision < length)
 length = precision;
